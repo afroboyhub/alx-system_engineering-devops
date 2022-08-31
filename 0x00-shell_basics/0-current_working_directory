@@ -1,0 +1,4 @@
+#! urs/bin/bash
+#A script to print absolute path
+
+pwd
